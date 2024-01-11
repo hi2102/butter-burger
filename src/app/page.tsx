@@ -6,7 +6,7 @@ export default function Home() {
       src={'/menu.jpeg'}
       width={1024}
       height={100}
-      className="w-screen h-auto"
+      className="w-screen h-screen"
       alt="menu pic" />
   </>
 }
